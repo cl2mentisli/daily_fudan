@@ -189,7 +189,8 @@ def get_account():
     """
     获取账号信息
     """
-    uid, psw = sys_argv[1].strip().split(' ')
+    uid="18300120075"
+    psw="Nwyxfwmyzjxffe1x"
     return uid, psw
 
 if __name__ == '__main__':
