@@ -1,4 +1,5 @@
-git config --global pull.rebase false  # merge (the default strategy)git config
+git config pull.rebase true
+
 import time
 from json import loads as json_loads
 from os import path as os_path
